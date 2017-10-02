@@ -1,2 +1,2 @@
 # Maciej
-Week 1 OOP
+Week 2 OOP
